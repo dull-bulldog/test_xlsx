@@ -1,0 +1,7 @@
+[package]
+name = "xlsx_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rust_xlsxwriter = "0.72.0"
